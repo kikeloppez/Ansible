@@ -1,16 +1,21 @@
 # Ansible
-:one: ¿Por qué automatizar los despliegues de servicios?
+## Indice de instalación y uso de Ansible
 
-:two: ¿Qué es Ansible?
+:one: [¿Por qué automatizar los despliegues de servicios?]()
 
-:three: Instalación de Ansible.
+:two: [¿Qué es Ansible?]()
 
-:four: Configurar un playbook en Ansible.
+:three: [Instalación de Ansible.]()
 
-:five: Desplegar servicios en Ansible
+:four: [Configurar un playbook en Ansible.]()
 
-:six: Referencias.
+:five: [Desplegar servicios en Ansible]()
 
-:seven: Licencia.
+:six: [Referencias.]()
 
-:eight: Vídeo tutorial.
+:seven: [Licencia.]()
+
+:eight: [Vídeo tutorial.]()
+
+## Licencia
+![LICENCIA](https://github.com/kikelopser/tarea-chocolatey/blob/main/Imagenes/licencia.png)
