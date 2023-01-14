@@ -4,4 +4,7 @@
 
 ![yo](https://pbs.twimg.com/media/Fb6s7rQXEAEbTb1?format=jpg&name=small)
 
+No hay mejor licencia que la del creador de este repositorio tan interesante.
+## Enrique López Serrano
+
 ◀️ [VOLVER](https://github.com/kikelopser/Ansible)
