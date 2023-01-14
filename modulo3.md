@@ -8,3 +8,5 @@ Para instalarlo en Windows, se debe ejecutar un subsystem de Linux, aunque no se
 apt install ansible
 ```
 ![foto1](https://github.com/kikelopser/Ansible/blob/main/Ansible/1-server.png)
+
+◀️ [VOLVER](https://github.com/kikelopser/Ansible)
