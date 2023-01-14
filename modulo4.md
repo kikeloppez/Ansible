@@ -8,6 +8,7 @@ En el servidor creamos un directorio de trabajo, para posteriormente crear un fi
 ![foto3](https://github.com/kikelopser/Ansible/blob/main/Ansible/3-server.png)
 
 Creamos otro fichero de configuración con formato .yml, este formato es el que reconoce Ansible.
+
 Lo rellenamos de la siguiente forma para poder desplegar un servicio Nginx.
 
 ![foto8](https://github.com/kikelopser/Ansible/blob/main/Ansible/8-server.png)
