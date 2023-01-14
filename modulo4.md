@@ -12,3 +12,5 @@ Creamos otro fichero de configuración con formato .yml, este formato es el que 
 Lo rellenamos de la siguiente forma para poder desplegar un servicio Nginx.
 
 ![foto8](https://github.com/kikelopser/Ansible/blob/main/Ansible/8-server.png)
+
+◀️ [VOLVER](https://github.com/kikelopser/Ansible)
