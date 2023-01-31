@@ -1,5 +1,5 @@
 ## Video tutorial
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://imgur.com/96aNJ8Y)](https://youtu.be/vt5fpE0bzSY)
 
 ◀️ [VOLVER](https://github.com/kikelopser/Ansible)
